@@ -1,0 +1,734 @@
+@media only screen and (max-width: 480px) {
+  .head-caption {
+      letter-spacing : 3px;
+      word-spacing : 3px;
+  }
+  #form-subscribe input {
+    min-width: 300px;
+  }
+  .shopping_table {
+     padding: 0;
+  }
+  #slider {
+    min-height: 220px;
+  }
+  .device_slide .text_holder .icon_holder {
+    padding: 10px;
+  }
+  .device_slide .text_holder .slide_text {
+    margin: 0 70px 0 0;
+  }
+}
+@media (min-width: 486px)  and (max-width: 768px) {
+  .main_block .slogan_holder {
+    margin-top: 80px;
+  }
+  .gallery_wrp .social {
+      width: 145px;
+      height: 40px;
+  }
+  .gallery_wrp .social li {
+      margin: 0 10px;
+  }
+}
+
+@media only screen and (max-width: 1366px)
+{
+	.page_nav li{
+		margin-left: 1%;
+	}
+	.page_nav li a{
+		letter-spacing: 0;
+	}
+	.btn{
+		min-width: 225px;
+		letter-spacing: 0;
+		word-spacing: 0;
+	}
+	.second_header .device_logo_holder{
+		margin-left: 0;
+		max-width: 12%;
+		min-width: 1px;
+		margin: 18px 0;
+	}
+	.second_header .device_logo_holder img{
+		width: 100%;
+		height: auto;
+	}
+	.list_holder{
+		max-width: 40%;
+	}
+	.devices_holder .phone2{
+		margin-left: 2%;
+	}
+	.devices_holder .tracker{
+		max-width: 15%;
+		margin-left: 2%;
+	}
+	.specs_list li{
+		padding-right: 3.3%;
+	}
+	.device_slide .text_holder{
+		margin: 3% 5%;
+	}
+	.device_slide .text_holder:last-child{
+		max-width: 650px;
+	}
+	.device_slide .text_holder .slide_text p{
+		padding: 15px 0;
+	}
+	.main_block{
+		padding-bottom: 10%;
+		padding-top: 12%;
+	}
+	.specs{
+		padding: 0 20px;
+	}
+  /*RESPONSIVE*/
+  .page_nav li a
+  {
+    font-size: 17px;
+    padding: 0px 10px;
+  }
+  .slogan_holder h2
+  {
+    font-size: 40px;
+  }
+  .slogan_holder p
+  {
+    font-size: 22px;
+  }
+  .btn
+  {
+    padding: 10px 0px;
+    font-size: 16px;
+  }
+  .device_slider_holder .slide.central
+  {
+    width: 180px;
+  }
+  .second_header .device_logo_holder
+  {
+    margin: 5px 0px;
+  }
+  .fixed .second_header_wrp
+  {
+    padding: 0px 0px 0px 0px;
+  }
+  .page_nav
+  {
+    margin: 20px 0px;
+  }
+  .head-caption
+  {
+    font-size: 35px;
+  }
+  .benefits_list .title
+  {
+    font-size: 20px;
+  }
+  .benefits_list .text
+  {
+    font-size: 17px;
+  }
+  .device_slide .text_holder .slide_text h3
+  {
+    font-size: 30px;
+  }
+  .device_slide .text_holder .slide_text p
+  {
+    font-size: 20px;
+  }
+  .gallery_holder .slogan_wrp h3
+  {
+    font-size: 40px;
+  }
+  .gallery_holder .slogan_wrp p
+  {
+    font-size: 20px;
+
+  }
+  .app_points_list h3
+  {
+    font-size: 17px;
+  }
+  .app_points_list p
+  {
+    font-size: 17px;
+  }
+  .devices_holder .phone1 img, .devices_holder .phone2 img, .devices_holder .tracker img
+  {
+    height: 400px;
+  }
+  .devices_holder .phone1
+  {
+    margin-left: 25%;
+  }
+  .app_points_list li
+  {
+    margin-top: 20px;
+  }
+  .good_items li img
+  {
+    max-height: 180px;
+  }
+  .blue_h
+  {
+    font-size: 35px;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1268px){
+    .page-review .box-like div.col-md-3 h4
+    {
+        font-size: 120%;
+    }
+
+    .page-review .box-like div.col-md-3 span
+    {
+        font-size: 110%;
+    }
+
+    @-moz-document url-prefix() {
+        .page-review .cart-item .row h4 {
+            letter-spacing : 1px;
+        }
+    }
+}
+@media screent and (max-width: 1427px){
+  /*RESPONSIVE*/
+  .page_nav li a
+  {
+    font-size: 17px;
+    padding: 0px 10px;
+  }
+  .slogan_holder h2
+  {
+    font-size: 40px;
+  }
+  .slogan_holder p
+  {
+    font-size: 22px;
+  }
+  .btn
+  {
+    padding: 10px 0px;
+    font-size: 16px;
+  }
+  .device_slider_holder .slide.central
+  {
+    width: 180px;
+  }
+  .second_header .device_logo_holder
+  {
+    margin: 5px 0px;
+  }
+  .fixed .second_header_wrp
+  {
+    padding: 0px 0px 0px 0px;
+  }
+  .page_nav
+  {
+    margin: 20px 0px;
+  }
+  .head-caption
+  {
+    font-size: 35px;
+  }
+  .benefits_list .title
+  {
+    font-size: 20px;
+  }
+  .benefits_list .text
+  {
+    font-size: 17px;
+  }
+  .device_slide .text_holder .slide_text h3
+  {
+    font-size: 30px;
+  }
+  .device_slide .text_holder .slide_text p
+  {
+    font-size: 20px;
+  }
+  .gallery_holder .slogan_wrp h3
+  {
+    font-size: 40px;
+  }
+  .gallery_holder .slogan_wrp p
+  {
+    font-size: 20px;
+
+  }
+  .app_points_list h3
+  {
+    font-size: 17px;
+  }
+  .app_points_list p
+  {
+    font-size: 17px;
+  }
+  .devices_holder .phone1 img, .devices_holder .phone2 img, .devices_holder .tracker img
+  {
+    height: 400px;
+  }
+  .devices_holder .phone1
+  {
+    margin-left: 25%;
+  }
+  .app_points_list li
+  {
+    margin-top: 20px;
+  }
+  .good_items li img
+  {
+    max-height: 180px;
+  }
+  .blue_h
+  {
+    font-size: 35px;
+  }
+}
+@media only screen and (max-width: 768px) {
+    .benefits_holder .list_holder{
+		padding-left: 5px;
+	}
+}
+@media only screen and (max-width: 1024px){
+	.second_header_wrp{
+		padding: 20px 10px;
+	}
+	.page_nav li{
+		margin-left: 20px;
+	}
+	.list_holder:first-of-type{
+		padding-right: 10px;
+	}
+	.list_holder{
+		padding-left: 60px;
+		max-width: 40%;
+	}
+    .benefits_holder .list_holder.first {
+        padding-right: 60px;
+    }
+	.benefits_list .text_holder{
+		margin-left: 40px;
+	}
+	.benefits_holder{
+		padding: 10% 10px;
+	}
+	.mobile_gallery{
+		padding: 5% 10px;
+	}
+	.gallery_holder .slogan_wrp{
+		padding-bottom: 5%;
+	}
+	.specs_block_wrp {
+		padding: 65px 10px;
+	}
+	.good_items .item .btn-buy-now{
+        min-width: 120px;
+	}
+	.main_block{
+		padding: 12% 10px;
+	}
+	.device_slider_holder{
+		min-height: 1px;
+	}
+	.benefits_holder{
+		background: none;
+	}
+}
+@media only screen and (max-width: 960px){
+	.page_nav{
+		display: none;
+	}
+	.second_header .device_logo_holder{
+		margin: 0;
+		min-width: 140px;
+	}
+	.second_header .device_logo_holder img{
+		height: auto;
+		width: auto;
+		max-width: 100%;
+		margin-left: 17px;
+	}
+	.small_menu_wrp{
+		display: block;
+	}
+	.good_items li{
+		width: 33.3%;
+		padding: 0 15px;
+		margin: 0;
+	}
+	.device_logo_holder img{
+	max-height: 50px;
+	}
+	.price_wrp{
+		margin: 0;
+	}
+	.price_wrp .btn{
+		padding: 10px 33px 10px 33px;
+	}
+	.basket{
+		line-height: 50px;
+	}
+	.small_menu{
+		margin: 10px 0;
+	}
+	.second_header_wrp {
+	  background: rgba(0, 195, 227, 0.9);
+	  padding: 10px;
+	}
+	.device_slider_holder .slide{
+		width: auto;
+		max-width: 18%;
+		padding: 0 2%;
+	}
+  .slogan_holder .device_slider_holder .slide.central{
+		width: 26%;
+	}
+}
+@media only screen and (max-width: 768px){
+	.benefits_list .text{
+		font-size: 16px;
+	}
+	.benefits_list li{
+		margin-top: 20px;
+	}
+	.benefits_list .title{
+		text-align: left;
+	}
+	.wristle{
+		padding: 0 10px;
+	}
+	.app_points_list li{
+		margin-top: 10px;
+	}
+	.app_points_list p{
+		font-size: 16px;
+	}
+	.good_items li{
+		padding: 0 45px;
+		margin: 0;
+		width: 50%;
+    margin-bottom: 15px;
+	}
+	.specs_list p{
+		font-size: 16px;
+	}
+	.device_slider .slider_images{
+		position: static;
+	}
+	.slides_holder{
+		position: absolute !important;
+		top: 0;
+		z-index: 1000;
+		height: 100%;
+		width: 100%;
+	}
+	.slides_holder .slick-list{
+		margin: 0;
+	}
+	.slides_holder.slick-slider{
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+	}
+	.slider_images .image_holder{
+		overflow: hidden;
+		width: 100%;
+	}
+	.point .text{
+		margin-left: 50px;
+	}
+	.mailing .input_btn{
+		margin-left: 0;
+	}
+	.device_slide .text_holder .slide_text{
+		text-align: center;
+	}
+	.device_slide{
+		background: rgba(0,0,0,0.2);
+		/*padding: 0 5%;*/
+	}
+	.device_slide .text_holder{
+		max-width: inherit;
+		text-align: left;
+		margin: 3% 15px;
+	}
+	.button_next,
+	.button_prev{
+		display: block;
+	}
+	.devices_holder{
+		width: 100%;
+		float: none;
+	}
+	.app_points{
+		width: 80%;
+		float: none;
+		margin: 0 auto;
+		padding: 0;
+		position: relative;
+	}
+	.track_btn,
+	.track_btn_prev{
+		display: block;
+	}
+	.app_points_list{
+        margin-top: 15px;
+        min-height: 120px;
+	}
+	.app_points_list li{
+		height: 100%;
+	}
+	.price_wrp .btn, .fixed .price_wrp .btn{
+		padding-right: 80px;
+		padding-left: 17px;
+	}
+	.basket{
+		width: 70px;
+		/*line-height: 40px;*/
+	}
+	.fixed .basket{
+		width: 70px;
+		line-height: 50px;
+	}
+	.list_holder{
+		vertical-align: top;
+	}
+	.benefits_holder .list_holder.first{
+		padding-right: 20px;
+	}
+  .good_items .btn_buy
+  {
+    margin-botom: 40px;
+  }
+  .wristle
+  {
+    display: none;
+  }
+  .benefits_holder .list_holder
+  {
+    width: 100%;
+    max-width: 100%;
+  }
+  .benefits_list li
+  {
+    margin-bottom: 50px;
+  }
+  .benefits_list li img
+  {
+    display: inline-block;
+    max-width: 70%;
+    margin-left: 15%;
+    margin-top: 20px;
+  }
+  .btn
+  {
+    min-width: 190px;
+  }
+  .price_wrp .btn, .fixed .price_wrp .btn
+  {
+    padding: 10px;
+  }
+  .second_header
+  {
+    padding-top: 10px;
+  }
+}
+@media only screen and (min-width: 769px){
+  .benefits_list li img
+  {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1024px){
+  .shopping_cell{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 480px){
+  #modal-cart-update-notice .modal-footer .btn {
+    min-width: 110px !important;
+  }
+  .page-review .price_wrp a {
+    padding-left: 15px;
+    padding-right: 75px;
+  }
+
+  .slick-slide img
+  {
+    width: 100%;
+    height: 300px;
+  }
+  .second_header .device_logo_holder img
+  {
+    margin-left: 0;
+  }
+	.second_header .device_logo_holder{
+		margin: 0 auto 10px;
+	}
+	.small_menu_wrp{
+		float: left;
+	}
+	.small_menu ul{
+		right: auto;
+		left:-10px;
+	}
+	.price_wrp .btn{
+		min-width: 150px;
+	}
+	.price_wrp{
+		margin-top: 6px;
+	}
+	.second_header_wrp{
+		padding: 10px 0;
+	}
+	.second_header .device_logo_holder img{
+		margin-right: 0;
+	}
+	.main_block{
+		background-position: 10% 0;
+		padding-top: 150px;
+	}
+	.benefits_holder{
+		padding: 50px 10px;
+	}
+	.mobile_gallery{
+		padding: 50px 10px;
+	}
+	.gallery_holder .slogan_wrp{
+		padding-bottom: 50px;
+	}
+	.devices_holder{
+		max-width: 50%;
+	}
+	.app_points{
+		max-width: 50%;
+	}
+	.gallery_wrp{
+		padding: 20px;
+	}
+	.good_items li{
+		width: 100%;
+    margin-top: 30px;
+	}
+	.mailing{
+		padding: 18px 10px;
+		overflow: hidden;
+	}
+	.benefits_list .title{
+		font-size: 18px;
+	}
+	.input_btn input{
+		padding: 0 25px;
+	}
+	.input_btn button{
+		right: 10px;
+	}
+	.small_menu{
+		width: 100%;
+	}
+	.small_menu .current{
+		display: inline;
+	}
+	.fixed .basket{
+		line-height: 40px;
+	}
+	.slogan_holder h2{
+		font-size: 30px;
+	}
+	.slogan_holder p{
+		padding: 6px 30px;
+		font-size: 20px;
+		line-height: 1.5;
+	}
+	.head-caption{
+		font-size: 20px;
+	}
+	.headline{
+		margin-bottom: 30px;
+	}
+	.device_slide .text_holder .slide_text h3{
+		font-size: 18px;
+	}
+	.device_slide .text_holder .slide_text p{
+		font-size: 16px;
+	}
+	.device_slider .slider_images .image_holder img{
+		width: auto;
+		height: 100%;
+	}
+	.btn_stride{
+		margin-right: 0;
+	}
+	.gallery_holder .slogan_wrp h3{
+		font-size: 20px;
+	}
+	.gallery_holder .slogan_wrp p{
+		font-size: 18px;
+	}
+	.devices_holder{
+		width: 100%;
+		max-width: 100%;
+	}
+	.devices_holder .phone1{
+		margin-left: 0;
+		max-width: 100%;
+	}
+	.app_points{
+		width: 100%;
+		max-width: 100%;
+		padding: 15px;
+	}
+	.track_btn{
+		right: 0;
+	}
+	.track_btn_prev{
+		left: 0;
+	}
+	.app_points_list h3{
+		font-size: 15px;
+	}
+	.app_points_list p{
+		padding-top: 0;
+		font-size: 14px;
+	}
+	.slick-list{
+		margin: 0;
+	}
+	.social li {
+		margin: 0 10px;
+	}
+	.social {
+        width: 120px;
+        height: 32px;
+	}
+    .social li .fa{
+        font-size: 20px;
+    }
+	.gallery_wrp .pager{
+		display: none;
+	}
+	.specs h3{
+		font-size: 20px;
+		margin-bottom: 37px;
+	}
+	.specs_list li{
+		width: 100%;
+		min-height: 1px;
+	}
+  .slogan_holder .device_slider_holder .slide.central
+  {
+    width: 77px;
+  }
+  #slider
+  {
+    margin-top: 30px;
+  }
+}
